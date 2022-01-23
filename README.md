@@ -7,7 +7,7 @@ Eu sou o Gianlucca, iniciante na programação em busca de conhecimento e desafi
 
 - 🔭 No momento eu estou buscando minha oportunidade como desenvolvedor front end.
 - 🌱 Atualmente estou estudando HTML, CSS e Javascript.
-- 🤔 interesses: 💻Tecnologia e 🏎automobilismo.
+- 🤔 interesses: 💻Tecnologia 
 
 ##
 
