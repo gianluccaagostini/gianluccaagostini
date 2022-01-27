@@ -5,8 +5,8 @@ Olá, seja bem vindo!
 Eu sou o Gianlucca, iniciante na programação em busca de conhecimento e desafios. 💪
 
 
-- 🔭 No momento eu estou buscando minha oportunidade como desenvolvedor front end.
-- 🌱 Atualmente estou estudando HTML, CSS e Javascript.
+- 🔭 No momento eu estou buscando minha oportunidade como desenvolvedor de aplicativos.
+- 🌱 Atualmente estou estudando React Native.
 - 🤔 interesses: 💻Tecnologia 
 
 ##
@@ -24,6 +24,7 @@ Minhas Estatísticas quanto ao GitHub ✨
   <img align="center" alt="Gianlucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gianlucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gianlucca-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Gianlucca-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div> 
   
  ##
