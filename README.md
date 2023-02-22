@@ -6,7 +6,7 @@ Eu sou o Gianlucca, iniciante na programação em busca de conhecimento e desafi
 
 
 - 🔭 No momento eu estou buscando minha oportunidade como desenvolvedor Jr.
-- 🌱 Atualmente estou estudando React Native.
+- 🌱 Atualmente estou estudando Java.
 - 🤔 interesses: 💻Tecnologia 
 
 ##
